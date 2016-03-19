@@ -2023,8 +2023,6 @@ function GetTextArea(str, size)
   return {x = ret * size * 0.035, y = size }
 end
 
-end
-
 do
   class "MenuConfig"
   class "Boolean"

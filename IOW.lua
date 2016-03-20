@@ -1,6 +1,6 @@
 class "InspiredsOrbWalker"
 function InspiredsOrbWalker:__init()
-  _G.IOWversion = 2
+  _G.IOWversion = 3
   myHeroName = myHero.charName
   self.attacksEnabled = true
   self.movementEnabled = true
